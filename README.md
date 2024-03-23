@@ -1,9 +1,9 @@
-[![MasterHead](https://soject.com/wp-content/uploads/2021/04/1_j18U6uvAg-ta2XBvDKNQlA.jpeg)](https://gauri08chalak.io)
 
+<img src='https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif' alt='animation' width="1000" height="300"></img>
 <h1 align="center">Hi 👋, I'm Gauri Chalak</h1>
 <h3 align="center">A Computer Science PostGraduate & a Java FullStack Developer with a strong passion for designing & developing visually appealing websites and Applications. I'm passionate about writing clean, maintainable, and efficient code & enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS,My-Sql,Spring Boot**
 
